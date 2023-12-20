@@ -50,6 +50,10 @@ Welcome to my digital playground, where logic dances with circuits and automatio
 
 ---
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+
+---
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadeemyaseen-rs&theme=radical&hide_border=true)](https://git.io/streak-stats)
